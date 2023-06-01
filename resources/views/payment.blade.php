@@ -11,7 +11,7 @@
 <body>
     @php
         $sat = json_decode(base64_decode($data[0]->person)); 
-        $apiKey = 'rzp_test_R77KBY8vsfVFYg';
+        $apiKey = 'ENTER YOUR API KEY';
         $TXN_AMOUNT = 120;
     @endphp
 
